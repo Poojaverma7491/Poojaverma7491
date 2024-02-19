@@ -22,6 +22,9 @@
 <a href="https://www.instagram.com/__.pooja_verma.__/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/__.pooja_verma.__/" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/leetcode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 <br>
 
