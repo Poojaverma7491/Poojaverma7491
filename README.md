@@ -4,9 +4,13 @@
 <br>
 
  ✨ I'm a Tech Enthusiast
+ 
  📫 I'm a web developer and a designer.
+ 
  👀 I’m always looking to learn new technologies and to improve my skills.
+ 
  👋 I’m looking to collaborate More on Real World Problems and OpenSource.
+ 
  👯 I'm a team player and I enjoy working collaboratively with others.
 
 ## Links:
