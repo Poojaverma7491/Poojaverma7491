@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=Welcome+To+Pooja's+Github+Profile)](https://git.io/typing-svg)<img src = "https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" align = "right"  height="220px"></img>
 <br>
 
-- ✨ I'm a Tech Enthusiast
-- 📫 I'm a web developer and a designer.
-- 👀 I’m always looking to learn new technologies and to improve my skills.
-- 👋 I’m looking to collaborate More on Real World Problems and OpenSource.
-- 👯 I'm a team player and I enjoy working collaboratively with others.
+ ✨ I'm a Tech Enthusiast
+ 📫 I'm a web developer and a designer.
+ 👀 I’m always looking to learn new technologies and to improve my skills.
+ 👋 I’m looking to collaborate More on Real World Problems and OpenSource.
+ 👯 I'm a team player and I enjoy working collaboratively with others.
 
 ## Links:
 <a href="https://https://poojaverma7491.github.io/pooja" target="_blank">
